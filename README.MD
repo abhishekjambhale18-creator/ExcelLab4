@@ -1,41 +1,51 @@
-**Cleaning and Structuring Retail Data Using Tables**
+# 📊 Excel — Retail Data & Conditional Formatting
 
-## 💭 The Goal
+## 📌 Description
 
-Learn how to **clean, organize, and analyze retail sales data** using Excel Tables and Conditional Formatting to identify useful business insights and sales patterns.
+Performed **data cleaning, table management, and conditional formatting operations** in **Microsoft Excel** using the DMart Sales Dataset. The assigned tasks involved organizing retail data, applying formatting, and identifying relevant sales insights.
 
-## 🧩 What This Lab Covers
+## 🧩 Operations Performed
 
 **01 — Data Cleaning**
 Cleaned and structured the **DMart Sales Dataset** by correcting inconsistencies and organizing the data for analysis.
 
 **02 — Excel Tables**
-Converted the dataset into an **Excel Table** for easier sorting, filtering, and data management.
+Converted the dataset into an **Excel Table** to simplify data management, sorting, and filtering.
 
 **03 — Data Formatting**
-Applied proper formatting to improve the readability and presentation of the sales data.
+Applied appropriate formatting to improve the readability and presentation of the dataset.
 
 **04 — Conditional Formatting**
-Used **Conditional Formatting** to highlight important values and identify patterns within the dataset.
+Used **Conditional Formatting** to highlight specific values and identify patterns within the sales data.
 
 **05 — Sales Analysis**
-Analyzed discounts, sales, quantities, and profits to identify important business information.
+Analyzed discounts, sales, quantities, and profits to identify relevant business information.
 
 **06 — Top & Bottom Values**
-Identified **minimum and maximum discounts**, Top 3 grocery sales, Top 10 sales, and Top 10 profits.
+Identified **minimum and maximum discounts**, Top 3 Grocery Sales, Top 10 Sales, and Top 10 Profit values.
 
 **07 — Customer & Quantity Analysis**
 Identified **new customer types** and highlighted transactions where the **quantity was greater than 5**.
 
-## 🛠️ Toolkit
+## 🛠️ Tools & Concepts Used
+
+* Data Cleaning
+* Excel Tables
+* Data Formatting
+* Sorting & Filtering
+* Conditional Formatting
+* Sales Analysis
+* Business Insights
+
+## 💻 Tool Used
 
 **Microsoft Excel**
 
 ## 📋 Tasks Performed
 
-* Cleaned and organized the DMart Sales Dataset.
+* Cleaned and structured the DMart Sales Dataset.
 * Converted the dataset into an Excel Table.
-* Applied proper data formatting.
+* Applied appropriate data formatting.
 * Used sorting and filtering for data analysis.
 * Applied Conditional Formatting to identify key values.
 * Analyzed minimum and maximum discounts.
@@ -44,10 +54,10 @@ Identified **new customer types** and highlighted transactions where the **quant
 * Identified new customer types.
 * Highlighted transactions with quantity greater than 5.
 
-## 📌 What I Took Away
+## 📌 Outcome
 
-This lab provided practical experience in **data cleaning, Excel Tables, formatting, sorting, filtering, and Conditional Formatting**. It helped strengthen my ability to organize retail sales data and identify meaningful business insights from large datasets.
+Completed the assigned **retail data cleaning and analysis operations** using Excel Tables, formatting, sorting, filtering, and Conditional Formatting to organize the DMart Sales Dataset and identify relevant business insights.
 
-## 🚀 Skills Strengthened
+## 🚀 Key Concepts
 
-**Data Cleaning → Table Management → Data Formatting → Conditional Formatting → Business Insight Analysis**
+**Data Cleaning → Excel Tables → Data Formatting → Conditional Formatting → Sales Analysis → Business Insights**
